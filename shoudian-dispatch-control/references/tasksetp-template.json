@@ -1,0 +1,28 @@
+{
+  "TASKSTEP": [
+    {
+      "step": 1,
+      "title": "现场勘察方案",
+      "status": "未开始",
+      "agent": "勘察子智能体"
+    },
+    {
+      "step": 2,
+      "title": "接入系统方案",
+      "status": "未开始",
+      "agent": "接入子智能体"
+    },
+    {
+      "step": 3,
+      "title": "计费方案",
+      "status": "未开始",
+      "agent": "计费子智能体"
+    },
+    {
+      "step": 4,
+      "title": "计量方案",
+      "status": "未开始",
+      "agent": "计量子智能体"
+    }
+  ]
+}
