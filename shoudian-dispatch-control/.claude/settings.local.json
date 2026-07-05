@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/caicai/Destop/**)",
+      "Read(//Users/caicai/Desktop/ai-reactNew/**)",
+      "Read(//Users/caicai/.config/opencode/**)",
+      "Bash(npx tsc *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git reset *)",
+      "Bash(git restore *)",
+      "Bash(python3 -)"
+    ]
+  }
+}
